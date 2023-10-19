@@ -1,3 +1,4 @@
 Allow: /$
 Allow: /here.html$
+Allow: /here.html/
 Disallow: /
